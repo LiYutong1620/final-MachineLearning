@@ -1,0 +1,6 @@
+__pycache__/
+**/__pycache__/
+.venv/
+.env
+model_logs.json
+model_logs.txt
